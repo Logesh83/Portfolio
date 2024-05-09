@@ -1,0 +1,51 @@
+@media only screen and (max-width: 766px){
+   .experbg{
+      display: flex;
+      position: fixed;
+      
+    }
+    
+  }
+  .experbg{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+  }
+  .expertxt{
+    top: 8px;
+    left: 14px;
+    position: absolute;
+    right: 14px;
+  }
+  .objectways{
+    height: 125px;
+    width: 450px;
+    margin-top: 5%;
+  }
+  @media only screen and (max-width: 766px){
+    .objectways{
+      height: 125px;
+      width: 390px;
+      margin-top: 5%;
+    }
+     
+   }
+  .exppara{
+    text-align: justify;
+    text-size-adjust: 50%;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .hom3:hover{
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.5s;
+    box-shadow: 0px 3px 12px 0px whitesmoke;
+  
+  }
+  .hom4:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 5px 2px 2px black;
+  }

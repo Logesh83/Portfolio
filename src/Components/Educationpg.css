@@ -1,0 +1,38 @@
+.imged{
+  position: fixed;
+
+}
+.imged1{
+  top: 8px;
+  left: 14px;
+  position: absolute;
+  right: 14px;
+  }
+  .box{
+    border: 1px solid whitesmoke;
+    position: relative;
+    background-color: transparent;
+
+  }
+  .box:hover{
+    box-shadow: 0px 3px 12px 0px whitesmoke;
+  }
+  
+  .hom3:hover{
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.5s;
+    box-shadow: 0px 3px 12px 0px whitesmoke;
+  
+  }
+  .hom4:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 5px 2px 2px black;
+  }
+  @media only screen and (max-width: 600px){
+    .box{
+      margin-top: 10%;
+    }
+  }

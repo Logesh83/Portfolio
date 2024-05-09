@@ -1,0 +1,105 @@
+.probg{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+.protxt{
+  top: 8px;
+  left: 14px;
+  position: absolute;
+  right: 14px;
+  }
+  .agepic{
+    height: 200px;
+    width: 150%;
+    margin-left: 2%;
+    margin-top:5%
+  }
+  .calulaterpic{
+    height: 200px;
+    width: 110%;
+    margin-left: 2%;
+    margin-top:5%
+  
+  }
+  .vaildpic{
+    height: 199px;
+    width: 125%;
+    margin-left: 2%;
+    margin-top:5%
+  }
+  .ecommercepic{
+    height: 200px;
+    width: 95%;
+    margin-left: 2%;
+    margin-top:5%
+  }
+  .tonetrend{
+    height: 200px;
+    width: 120%;
+    margin-left: 2%;
+    margin-top:5%
+  }
+  .key{
+    margin-top: 2%;
+    margin-left: 5%;
+  }
+    .keys1:hover{
+    color: white;
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.5s;
+    box-shadow: 0px 3px 12px 0px whitesmoke;
+  
+  }
+  .project-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-heading {
+    margin-left: 10%;
+    margin-top: 2%;
+    color: white;
+    font-family: -moz-initial;
+    font-size: 40px;
+  }
+  
+  .project-thumbnail {
+    width: 80%;
+    height: auto;
+    margin: 10px auto;
+    display: block;
+  }
+  
+  .keys {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .keys1 {
+    margin: 5px;
+  }
+  
+  .nav-button {
+    margin-top: 4%;
+    font-family: -moz-initial;
+    width: 80%;
+    margin: 5px auto;
+    
+  }
+  .hom3:hover{
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.5s;
+    box-shadow: 0px 3px 12px 0px whitesmoke;
+  
+  }
+  .hom4:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 5px 2px 2px black;
+  }
